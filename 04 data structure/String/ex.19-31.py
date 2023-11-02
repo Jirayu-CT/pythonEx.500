@@ -1,0 +1,10 @@
+string1 = "Python"
+print("ex.19", string1, "type =", type(string1))
+print("ex.20", string1[0])
+print("ex.21", string1[1])
+print("ex.22", string1[-1])
+print("ex.23", string1[-2])
+print("ex.24", string1[2])
+print("ex.25", string1[3])
+print("ex.26", string1[:4])
+print("ex.26", string1[2:-1])
